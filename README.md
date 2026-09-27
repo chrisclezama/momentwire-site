@@ -4,6 +4,6 @@ Static verification/legal-information website for MomentWire. No JavaScript, ana
 
 Publish with GitHub Pages from `main`, `/(root)`. Hosting uses a public repository and the free Pages service. No custom domain is required.
 
-Before Meta submission, replace `contact@momentwire.example` on all three pages with an owner-designated, monitored public contact mailbox. The placeholder is deliberately not a usable address. Review policy text whenever actual data practices change.
+Owner-designated public contact: chrisclezama@gmail.com. Review policy text whenever actual data practices change. Website deployment does not guarantee Meta approval.
 
 This site is separate from the private Factory source/control repositories. Only these public HTML/CSS/documentation files belong here.
